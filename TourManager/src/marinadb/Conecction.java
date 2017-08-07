@@ -17,7 +17,7 @@ public class Conecction {
       String host = "localhost";
       String db = "marina";
       String user = "root";
-      String pass = "pastelillo1";
+      String pass = "nepe";
       String url = String.format("jdbc:mysql://%s:%d/%s?useSSL=false", host, port, db);
       
     //constructor

@@ -21,7 +21,7 @@ public class LogIn extends javax.swing.JFrame {
      */
     public LogIn() {
         initComponents();
-        setIcon();
+        //setIcon();
         this.getContentPane().setBackground(Color.LIGHT_GRAY);
         this.conn = new Conecction();
 
